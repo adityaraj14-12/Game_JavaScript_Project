@@ -36,6 +36,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Credits
 
-The Gift Hunt Game was created by [Your Name] and is maintained by [Your Organization/Username]. Special thanks to [contributors/contributing organizations] for their contributions to the project.
+The Gift Hunt Game was created by [Aditya Raj] and is maintained by [Lovely Professional University]. Special thanks to [Simranpreet Kaur] for their contributions to the project.
 
 Enjoy playing the Gift Hunt Game! If you have any questions or feedback, feel free to [contact us](mailto:adityapersonalac@gmail.com).
